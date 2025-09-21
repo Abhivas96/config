@@ -4,7 +4,7 @@ cards:
   message: "Welcome to EazyBank cards service for Production."
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    email: "{cipher}8d6a5fdf66a3540e580271e72bd0d63677fef4751058fbe3fbec36ee3d358a3e8e691d7af599ae4b30080f791c17d049"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
